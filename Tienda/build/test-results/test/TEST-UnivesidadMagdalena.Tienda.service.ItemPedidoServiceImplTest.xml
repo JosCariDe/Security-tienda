@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnivesidadMagdalena.Tienda.service.ItemPedidoServiceImplTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-05-05T18:17:27" hostname="DESKTOP-3LKVOU5" time="0.146">
+  <properties/>
+  <testcase name="givenItemId_whenRemoverItemPedido_thenNothing()" classname="UnivesidadMagdalena.Tienda.service.ItemPedidoServiceImplTest" time="0.109"/>
+  <testcase name="givenItemPedido_whenGuardarItemPedido_thenReturnItemPedidoGuardado()" classname="UnivesidadMagdalena.Tienda.service.ItemPedidoServiceImplTest" time="0.007"/>
+  <testcase name="givenItemId_whenBuscarItemPedidoById_thenReturnItemPedido()" classname="UnivesidadMagdalena.Tienda.service.ItemPedidoServiceImplTest" time="0.004"/>
+  <testcase name="givenProducto_whenCalcularTotalVentasPorProducto_thenReturnTotalVentas()" classname="UnivesidadMagdalena.Tienda.service.ItemPedidoServiceImplTest" time="0.004"/>
+  <testcase name="givenIdPedido_whenBuscarItemsPorIdPedido_thenReturnListOfItemPedidoDto()" classname="UnivesidadMagdalena.Tienda.service.ItemPedidoServiceImplTest" time="0.003"/>
+  <testcase name="givenProducto_whenFindByProducto_thenReturnListOfItemPedidoDto()" classname="UnivesidadMagdalena.Tienda.service.ItemPedidoServiceImplTest" time="0.005"/>
+  <testcase name="givenProducto_whenCalcularTotalVentasPorProducto_thenThrowItemPedidoNotFoundException()" classname="UnivesidadMagdalena.Tienda.service.ItemPedidoServiceImplTest" time="0.004"/>
+  <testcase name="givenItemId_whenBuscarItemPedidoById_thenThrowItemPedidoNotFoundException()" classname="UnivesidadMagdalena.Tienda.service.ItemPedidoServiceImplTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

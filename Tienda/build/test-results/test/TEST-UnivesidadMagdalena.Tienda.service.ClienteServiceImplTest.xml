@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnivesidadMagdalena.Tienda.service.ClienteServiceImplTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-05-05T18:17:26" hostname="DESKTOP-3LKVOU5" time="0.572">
+  <properties/>
+  <testcase name="givenClienteId_whenRemoverCliente_thenNothing()" classname="UnivesidadMagdalena.Tienda.service.ClienteServiceImplTest" time="0.483"/>
+  <testcase name="givenDireccion_whenFindByDireccion_thenReturnListOfClientes()" classname="UnivesidadMagdalena.Tienda.service.ClienteServiceImplTest" time="0.028"/>
+  <testcase name="givenCliente_whenGuardarCliente_thenReturnClienteGuardado()" classname="UnivesidadMagdalena.Tienda.service.ClienteServiceImplTest" time="0.013"/>
+  <testcase name="givenEmail_whenFindByEmail_thenReturnListOfClientes()" classname="UnivesidadMagdalena.Tienda.service.ClienteServiceImplTest" time="0.005"/>
+  <testcase name="givenNombre_whenBuscarPorComienzoNombreCon_thenReturnListOfClientes()" classname="UnivesidadMagdalena.Tienda.service.ClienteServiceImplTest" time="0.013"/>
+  <testcase name="givenClienteId_whenBuscarClienteById_thenReturnCliente()" classname="UnivesidadMagdalena.Tienda.service.ClienteServiceImplTest" time="0.006"/>
+  <testcase name="givenClienteId_whenBuscarClienteById_thenThrowClienteNotFoundException()" classname="UnivesidadMagdalena.Tienda.service.ClienteServiceImplTest" time="0.008"/>
+  <testcase name="givenNothing_whenGetAllClientes_thenReturnListOfClientes()" classname="UnivesidadMagdalena.Tienda.service.ClienteServiceImplTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="UnivesidadMagdalena.Tienda.service.PagoServiceImplTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-05-05T18:17:27" hostname="DESKTOP-3LKVOU5" time="0.121">
+  <properties/>
+  <testcase name="givenPago_whenGuardarPago_thenReturnPagoGuardado()" classname="UnivesidadMagdalena.Tienda.service.PagoServiceImplTest" time="0.096"/>
+  <testcase name="givenIdAndMetodoPago_whenBuscarPorIdYMetodoPago_thenReturnListOfPagoDto()" classname="UnivesidadMagdalena.Tienda.service.PagoServiceImplTest" time="0.004"/>
+  <testcase name="givenPagoId_whenBuscarPagoPorId_thenThrowPagoNotFoundException()" classname="UnivesidadMagdalena.Tienda.service.PagoServiceImplTest" time="0.005"/>
+  <testcase name="givenPagoId_whenBuscarPagoPorId_thenReturnPago()" classname="UnivesidadMagdalena.Tienda.service.PagoServiceImplTest" time="0.003"/>
+  <testcase name="givenRangoFechas_whenBuscarPorFechaPagoEntre_thenReturnListOfPagoDto()" classname="UnivesidadMagdalena.Tienda.service.PagoServiceImplTest" time="0.003"/>
+  <testcase name="givenPagoId_whenRemoverPago_thenNothing()" classname="UnivesidadMagdalena.Tienda.service.PagoServiceImplTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
